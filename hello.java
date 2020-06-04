@@ -6,6 +6,12 @@ public class hello{
     public static void greeting(string name) {
         system.out.println("welcome" . name);
     }
+    public static void greeting(string name) {
+        system.out.println("Hello" . name);
+    }
+    public static void greeting(string name) {
+        system.out.println("Goodbye" . name);
+    }
 
 
 }
