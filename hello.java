@@ -10,7 +10,7 @@ public class hello{
         system.out.println("Hello" . name);
     }
     public static void greeting(string name) {
-        system.out.println("Goodbye" . name);
+        system.out.println("hello hello hello hello" . name);
     }
 
 
